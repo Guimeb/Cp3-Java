@@ -19,20 +19,20 @@ ___
 ## Desenvolvimento e descrição do Projeto
 Em resposta à recente tragédia que assolou o estado do Rio Grande do Sul, deixando centenas de famílias desabrigadas e em situação de vulnerabilidade, estamos solicitando a criação de um sistema de gestão para auxiliar na coordenação e distribuição de assistência humanitária. O sistema terá como principal objetivo facilitar o gerenciamento eficiente de doações, voluntários e instituições de caridade envolvidas na prestação de auxílio às vítimas.
 
-O projeto foi separado em um arquivo Main.java e em quatro objetos guardados dentro da pasta "models" sendo eles
+O projeto foi separado em um arquivo Main.java e em quatro objetos guardados dentro da pasta "models" sendo eles:
 
   - Doacao
   - Doador
   - InstituicaoCaridade
   - Voluntario
 
-A descrição completa do desafio se encontra no PDF "Checkpoint 3 - Sistema de Voluntariado"
+A descrição completa do desafio se encontra no PDF "Checkpoint 3 - Sistema de Voluntariado".
+___
+## JavaDoc
+Foi disponibilizado o arquivo JavaDoc na pasta "JavaDoc" arquivo index.html.
+___
+## Diagrama
+Foi disponibilizado o Diagrana de classe na pasta "Diagrama" em formato .drawio e .png.
 ___
 ## Observação
-Devivo ao uso da extensão "Live Share" alguns alunos nao aparecem como colaboradores do projeto, porem houve participação de todos no trabalho
-_____
-## JavaDoc
-Foi disponibilizado o arquivo JavaDoc na pasta "JavaDoc" arquivo index.html
-
-## Diagrama
-Foi disponibilizado o Diagrana de classe na pasta "Diagrama" em formato .drawio e .png
+Devivo ao uso da extensão "Live Share" alguns alunos nao aparecem como colaboradores do projeto, porém houve participação de todos no trabalho.
