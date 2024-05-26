@@ -10,7 +10,6 @@ import models.*;
 public class Main {
     public static void main(String[] args) {
 
-        
         // Criando doadores
         Doador doador1 = new Doador("João Silva", "123.456.789-00", "Rua A, 123", "(11) 91234-5678");
         Doador doador2 = new Doador("Maria Oliveira", "987.654.321-00", "Rua B, 456", "(21) 92345-6789");
