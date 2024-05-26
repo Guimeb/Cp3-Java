@@ -27,4 +27,7 @@ O projeto foi separado em um arquivo Main.java e em quatro objetos guardados den
   - Voluntario
 
 A descrição completa do desafio se encontra no PDF "Checkpoint 3 - Sistema de Voluntariado"
+___
+## Observação
+Devivo ao uso da extensão "Live Share" alguns alunos nao aparecem como colaboradores do projeto, porem houve participação de todos no trabalho
 _____
