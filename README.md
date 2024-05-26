@@ -1,12 +1,12 @@
 # Checkpoint 3 - Domain driven design Java
 ___
 
-Integrantes:
-Fabrício Saavedra - 97631
-Guilherme Akio - 98582
-Matheus Motta - 550352
-Vinicius Buzato - 99125
-Guilherme Morais - 551981
+Integrantes: <br>
+Fabrício Saavedra - 97631 <br>
+Guilherme Akio - 98582 <br>
+Matheus Motta - 550352 <br>
+Vinicius Buzato - 99125 <br>
+Guilherme Morais - 551981 <br>
 
 Turma: 1ESPW
 
