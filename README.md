@@ -31,3 +31,8 @@ ___
 ## Observação
 Devivo ao uso da extensão "Live Share" alguns alunos nao aparecem como colaboradores do projeto, porem houve participação de todos no trabalho
 _____
+## JavaDoc
+Foi disponibilizado o arquivo JavaDoc na pasta "JavaDoc" arquivo index.html
+
+## Diagrama
+Foi disponibilizado o Diagrana de classe na pasta "Diagrama" em formato .drawio e .png
