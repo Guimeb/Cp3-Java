@@ -1,4 +1,4 @@
-# Checkpoint 3 - Domain driven design Java
+# Checkpoint 3 - Domain driven design Java :rooster: 
 ___
 
 Integrantes: <br>
