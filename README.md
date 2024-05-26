@@ -1,14 +1,14 @@
 # Checkpoint 3 - Domain driven design Java :rooster: 
 ___
 
-Integrantes: <br>
+### Integrantes: <br>
 Fabrício Saavedra - 97631 <br>
 Guilherme Akio - 98582 <br>
 Matheus Motta - 550352 <br>
 Vinicius Buzato - 99125 <br>
 Guilherme Morais - 551981 <br>
 
-Turma: 1ESPW
+Turma: 2ESPW
 
 Ano: 2024
 _____
