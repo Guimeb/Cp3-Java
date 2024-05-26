@@ -1,5 +1,4 @@
 # Checkpoint 3 - Domain driven design Java :rooster: 
-___
 
 ### Integrantes: <br>
 Fabrício Saavedra - 97631 <br>
